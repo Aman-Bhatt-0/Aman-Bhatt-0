@@ -25,8 +25,8 @@
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   <p>Check out my contributions and coding journey!</p> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR-GITHUB-USERNAME&theme=github_dark" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=merko" alt="GitHub Contribution Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aman-Bhatt-0&theme=github_dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-Bhatt-0&theme=merko" alt="GitHub Contribution Streak"/>
 </div>
 
 <h2 align="center" class="section-heading">💻 Tech Stack</h2>
@@ -46,16 +46,5 @@
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 </div>
-
-<div align="center">
-<h2 align="center" class="section-heading"> 🚀 Projects </h2>
-<p>Some exciting projects I've been working on:</p>
-<ul>
-  <li>📂 <strong>Resume Parsing & Matching System</strong> - Extracts and matches resumes based on job descriptions.</li>
-  <li>📊 <strong>PM2.5 Prediction Model</strong> - Predicts air pollution levels using Machine Learning.</li>
-</ul>
-</div>
-
----
 
 🔥 Always exploring new technologies & opportunities! 🚀  
