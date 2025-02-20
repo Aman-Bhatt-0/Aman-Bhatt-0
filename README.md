@@ -1,11 +1,61 @@
-- 👋 Hi, I’m @Aman-Bhatt-0
-- 👀 I’m interested in Machine Learning ,Deep learning Projects.
-- 🌱 I’m currently learning  Data science and pursuing my graduation in BTECH(CSE) from Graphic Era University
-- 💞️ I’m looking to collaborate on Projects based on Machine learning or data science
-- 📫 How to reach me -Mail aman62947@gmail.com
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&color=FFFFFF&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+GitHub+🙏;+I'm+Aman+Bhat!;" />
+</h1>
 
+<div align="center">
+    <h2>🚀 About Me</h2>
+    <p>Hey there! Aman this side 👋. I'm a 3rd-year Computer Science student at Graphic Era University, passionate about AI, Data Science, and Machine Learning. I enjoy working with data, building models, and exploring innovative solutions in the AI space. Let's connect and collaborate! 🚀</p>
+</div>
 
-<!---
-Aman-Bhatt-0/Aman-Bhatt-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+<h2 align="center" class="section-heading">🌐 Connect with Me</h2>
+<p>Let's build something awesome together! Connect with me on LinkedIn, check out my work on GitHub, or drop me a message.</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/amanbhatt13/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Aman-Bhatt-0" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:aman62947@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  <p>Check out my contributions and coding journey!</p> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR-GITHUB-USERNAME&theme=github_dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=merko" alt="GitHub Contribution Streak"/>
+</div>
+
+<h2 align="center" class="section-heading">💻 Tech Stack</h2>
+<p>Here are the technologies and tools I work with:</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+</div>
+
+<div align="center">
+<h2 align="center" class="section-heading"> 🚀 Projects </h2>
+<p>Some exciting projects I've been working on:</p>
+<ul>
+  <li>📂 <strong>Resume Parsing & Matching System</strong> - Extracts and matches resumes based on job descriptions.</li>
+  <li>📊 <strong>PM2.5 Prediction Model</strong> - Predicts air pollution levels using Machine Learning.</li>
+</ul>
+</div>
+
+---
+
+🔥 Always exploring new technologies & opportunities! 🚀  
